@@ -1,0 +1,52 @@
+@import "../variable/variable";
+@import "../mixin/font";
+
+.advisor {
+  padding-top: 40px;
+  margin-bottom: -64px;
+  padding-top: 40px;
+  background-color: #F4F4F4;
+  margin-bottom: -100px;
+  padding-bottom: 40px;
+
+  .advisor-type-button {
+    margin-bottom: 50px;
+
+    .nav-pills {
+      position: relative;
+
+      &::before {
+        width: 200px;
+        height: 2px;
+        background-color: $themeColor;
+        position: absolute;
+        top: 22px;
+        left: -240px;
+        content: "";
+      }
+
+      &::after {
+        width: 200px;
+        height: 2px;
+        background-color: $themeColor;
+        position: absolute;
+        top: 22px;
+        left: calc(100% - -40px);
+        content: "";
+      }
+    }
+
+    .nav-pills .nav-link.active {
+      background: $themeColor !important;
+    }
+
+    button {
+      background: $black !important;
+      border-radius: 0 !important;
+      color: #fff;
+      text-transform: uppercase;
+      @include font(15px, 600);
+      padding: 14px 35px;
+    }
+  }
+}

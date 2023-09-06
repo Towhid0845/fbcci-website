@@ -1,0 +1,2556 @@
+@media (min-width:1920px) {
+
+  // profile part start
+  .profile2-details .desig-history .timeline-cont .group .date {
+    left: 10%;
+    width: 145px;
+  }
+
+  .profile2-details .desig-history .timeline-cont .group .desc-box::before {
+    top: 20px;
+
+  }
+
+  .profile2-details .desig-history .timeline-cont .group .date {
+    top: 14px;
+  }
+
+  .res-fix {
+    left: 20% !important;
+  }
+
+  .profile2-details .desig-history .timeline-cont .group .point-circle {
+    top: 25px;
+  }
+
+}
+
+@media (min-width:1400px) and (max-width:1919px) {
+
+  .container-fluid {
+    padding: 0 12px !important;
+    width: 1320px;
+    margin: 0 auto;
+  }
+
+
+  body {
+    font-size: 14px;
+  }
+
+  .common-title h4 {
+    font-size: 32px;
+  }
+
+  // common css end 
+
+  // header part start
+  .top-header .title p {
+    font-size: 14px;
+  }
+
+  header .header-logo {
+    margin-right: 40px;
+  }
+
+  header .header-main .header-logo .logo {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  header .header-main .header-logo .logo img {
+    width: 130px;
+  }
+
+  header .header-main {
+    flex-wrap: unset;
+  }
+
+  header .header-main .social {
+    margin-left: 60px;
+    min-width: 250px;
+  }
+
+  header .header-main ul li {
+    margin: 5px 20px;
+    margin-left: 0;
+  }
+
+  header .header-main ul li+li {
+    margin-left: 0;
+  }
+
+  header .header-main ul li::before {
+    display: none;
+  }
+
+  header .header-main .social a {
+    font-size: 13px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    margin-left: 2px;
+  }
+
+  header .header-main ul li a i {
+    font-size: 20px;
+    margin-right: 6px;
+  }
+
+  header .header-main ul li a {
+    font-size: 14px;
+  }
+
+  header .name h4 {
+    font-size: 21px;
+  }
+
+  header .bd-logo {
+    img {
+      width: 60px;
+    }
+  }
+
+  // header part end
+  // navbar part start
+
+  nav .container-fluid {
+    padding: 0 12px 0;
+  }
+
+  nav .navbar-collapse {
+    padding-left: 0;
+  }
+
+  nav ul .nav-item .nav-link {
+    font-size: 14px !important;
+    padding: 0 13px !important;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    padding-left: 10px;
+  }
+
+  // nav .right-info .search-box {
+  //   display: none;
+  // }
+
+  nav .common-btn {
+    display: none;
+  }
+
+  nav .right-info .bar {
+    padding: 0 20px 0 10px;
+  }
+
+  nav ul .nav-item ul li a {
+    font-size: 14px !important;
+    padding: 10px 20px !important;
+  }
+
+  .search-icon img {
+    width: 20px;
+  }
+
+  nav ul .nav-item {
+    line-height: 66px;
+  }
+
+  nav .right-info .bar .custom-icon {
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+  }
+
+  nav .right-info .bar .custom-icon span {
+    top: 50%;
+    left: 8px;
+    width: 15px;
+  }
+
+  nav .right-info .bar .custom-icon span::before {
+    width: 22px;
+  }
+
+  nav .right-info .bar .custom-icon span::after {
+    width: 22px;
+  }
+
+  nav .right-info .search-box {
+    margin-right: 60px;
+  }
+
+  nav .right-info .search-box::before {
+    top: 13px;
+    right: -24px;
+    height: 36px;
+  }
+
+  nav .right-info .search-box {
+    margin-right: 0;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    padding-left: 0;
+  }
+
+  // navbar part end
+  // banner part start
+  .banner__slider {
+    height: 460px;
+    width: 1320px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .banner__slider .banner-content {
+    padding-left: 80px;
+  }
+
+  .banner__slider .banner-content h2 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+  }
+
+  .banner__slider .image {
+    height: 460px;
+  }
+
+  .banner__slider .banner-content {
+    padding-left: 0;
+  }
+
+  // banner part end
+  // about part start
+  .about .about-image .img {
+    height: 515px;
+  }
+
+  .about .about-info .year-box {
+    right: 110px;
+  }
+
+  .about .about-info .video {
+    left: 50px;
+  }
+
+  // about part end
+
+  // president part start
+  .presedent-with-contact-form {
+    padding-top: 155px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 130px !important;
+    padding-bottom: 107px !important;
+  }
+
+  // president part end
+
+  // service part start
+  .service-item .text h5 .title {
+    font-size: 21px;
+  }
+
+  .services .swiper-button-next {
+    right: -55px;
+  }
+
+  .services .swiper-button-prev {
+    left: -55px;
+  }
+
+  // service part end
+  // news part start
+  .news-item .news-text {
+    top: -22px;
+  }
+
+  .news-item .news-text .title {
+    font-size: 18px;
+  }
+
+  // news part end
+  // presedent part start
+  .presedent-with-contact-form .presedent-bg .text p {
+    margin-bottom: 30px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 80px;
+    padding-bottom: 284px;
+    padding-left: 40px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .title h2 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .presedent-with-contact-form .contact-main .heading h2 {
+    padding: 32px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h2 {
+    font-size: 34px;
+    margin-bottom: 14px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h6 {
+    margin-bottom: 22px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .member-counter .counter-item h3 {
+    font-size: 40px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .member-counter::after {
+    left: 238px;
+  }
+
+  // presedent part end
+  // event part start
+
+  .event-item .text .title {
+    font-size: 22px;
+  }
+
+  // event part end
+  //  gallery part start
+
+
+  //  gallery part end
+  // footer part start
+  footer .footer-bg .footer-title {
+    font-size: 22px;
+  }
+
+  footer .footer-bg .footer-contact {
+    padding: 0 40px 0 40px;
+  }
+
+  // footer part end
+// profile part start
+.profile2-details .desig-history .timeline-cont .group .date {
+  left: 13%;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box::before {
+  top: 20px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  top: 14px;
+}
+
+.res-fix {
+  left: 20% !important;
+}
+
+.profile2-details .desig-history .timeline-cont .group .point-circle {
+  top: 25px;
+}
+
+}
+
+@media (min-width:1200px) and (max-width:1399px) {
+
+
+  .container-fluid {
+    width: 1140px;
+    margin: 0 auto;
+  }
+
+  body {
+    font-size: 14px;
+  }
+
+  .common-title h4 {
+    font-size: 32px;
+  }
+
+  // common css end
+
+
+  // header part start
+
+  .top-header .title p {
+    font-size: 14px;
+  }
+
+  header .header-logo {
+    margin-right: 40px;
+  }
+
+  header .header-main .header-logo .logo {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  header .header-main .header-logo .logo img {
+    width: 130px;
+  }
+
+  header .header-main {
+    flex-wrap: unset;
+  }
+
+  header .header-main .social {
+    margin-left: 60px;
+    min-width: 250px;
+  }
+
+  header .header-main ul li {
+    margin: 5px 20px;
+    margin-left: 0;
+  }
+
+  header .header-main ul li+li {
+    margin-left: 0;
+  }
+
+  header .header-main ul li::before {
+    display: none;
+  }
+
+  header .header-main .social a {
+    font-size: 13px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    margin-left: 2px;
+  }
+
+  header .header-main ul li a i {
+    font-size: 20px;
+    margin-right: 6px;
+  }
+
+  header .header-main ul li a {
+    font-size: 14px;
+  }
+
+  header .name h4 {
+    font-size: 21px;
+  }
+
+  .header-logo {
+    img {
+      width: 130px;
+    }
+  }
+
+  .bd-logo {
+    img {
+      width: 60px;
+    }
+  }
+
+  // header part end
+  // navbar part start
+
+  nav .container-fluid {
+    padding: 0 12px 0;
+  }
+
+  nav .navbar-collapse {
+    padding-left: 0;
+  }
+
+  nav ul .nav-item .nav-link {
+    font-size: 14px !important;
+    padding: 0 10px !important;
+  }
+
+  nav .right-info .search-box {
+    margin-right: 0 !important;
+  }
+
+  nav .common-btn {
+    display: none;
+  }
+
+  nav .right-info .bar {
+    padding: 0 20px 0 10px;
+  }
+
+  nav ul .nav-item ul li a {
+    font-size: 14px !important;
+    padding: 10px 20px !important;
+  }
+
+  .search-icon img {
+    width: 20px;
+  }
+
+  nav ul .nav-item {
+    line-height: 66px;
+  }
+
+  nav .right-info .bar .custom-icon {
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+  }
+
+  nav .right-info .bar .custom-icon span {
+    top: 50%;
+    left: 8px;
+    width: 15px;
+  }
+
+  nav .right-info .bar .custom-icon span::before {
+    width: 22px;
+  }
+
+  nav .right-info .bar .custom-icon span::after {
+    width: 22px;
+  }
+
+  nav .right-info .search-box {
+    margin-right: 60px;
+  }
+
+  nav .right-info .search-box::before {
+    top: 13px;
+    right: -24px;
+    height: 36px;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    padding-left: 0;
+  }
+
+  // navbar part end
+  // banner part start
+  .banner__slider .banner-content h2 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 37px;
+  }
+
+  .banner__slider .image {
+    height: 396px;
+  }
+
+  .banner__slider {
+    height: 396px;
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .banner__slider .banner-content {
+    padding-left: 0;
+    padding-right: 84px !important;
+  }
+
+
+  // banner part end
+  // about part start
+  .about .about-image .img {
+    height: 442px;
+  }
+
+  .about .about-text .description p {
+    font-size: 16px;
+  }
+
+  .about .about-text .other-info .text h4 {
+    font-size: 22px;
+  }
+
+  .about .about-info .year-box {
+    right: 43px;
+  }
+
+  .about .about-info .video {
+    left: 50px;
+  }
+
+  .anim-img {
+    display: none;
+  }
+
+  // about part end
+  // president part start
+  .presedent-with-contact-form {
+    padding-top: 90px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 59px !important;
+    padding-bottom: 40px !important;
+  }
+
+  // president part end
+  // service part start
+  .service-item .text h5 .title {
+    font-size: 21px;
+  }
+
+  .services .swiper-button-next {
+    right: -55px;
+  }
+
+  .services .swiper-button-prev {
+    left: -55px;
+  }
+
+  // service part end
+  // news part start
+  .news-item .news-text {
+    top: -22px;
+  }
+
+  .news-item .news-text .title {
+    font-size: 16px;
+  }
+
+  .news-item .news-text .date p {
+    width: 72px;
+    height: 72px;
+    padding: 12px 16px;
+    text-align: center;
+  }
+
+  .news-item .news-text .date p span {
+    font-size: 22px;
+  }
+
+  // news part end
+  // presedent part start
+  .presedent-with-contact-form .presedent-bg .text p {
+    margin-bottom: 30px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 35px;
+    padding-bottom: 240px;
+    padding-left: 40px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .title h2 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .presedent-with-contact-form .contact-main .heading h2 {
+    padding: 32px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h2 {
+    font-size: 34px;
+    margin-bottom: 14px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h6 {
+    margin-bottom: 22px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .member-counter .counter-item h3 {
+    font-size: 40px;
+  }
+
+  .presedent-with-contact-form .contact-main .member-info .member-counter::after {
+    left: 238px;
+  }
+
+  // presedent part end
+  // event part start
+  .upcomming-event-box .upcomming-event-item .image {
+    height: 240px;
+  }
+
+  .event-calender .pignose-calendar {
+    min-height: 506px;
+  }
+
+  .event-item {
+    height: 395px;
+  }
+
+  .event-item .text .title {
+    font-size: 22px;
+  }
+
+  // gallery part start
+  .gallery-item .image {
+    height: 257px;
+  }
+
+  // gallery part end
+
+  // event part end
+  //  gallery part start
+
+  //  gallery part end
+  // footer part start
+  footer .footer-bg .footer-title {
+    font-size: 22px;
+  }
+
+  footer .footer-bg .footer-contact {
+    padding: 0 40px 0 40px;
+  }
+
+  // footer part end
+  // former president page start
+  .former-president-item .image {
+    height: auto;
+  }
+
+  // former president page end
+  .upcomming-event-page .upcomming-event-item .image {
+    height: 200px;
+  }
+
+  .upcomming-event-item .text .title {
+    font-size: 18px;
+  }
+
+  // news details page start
+  .news-details .related-news .rn::before {
+    display: none;
+  }
+
+  // publication page start
+  .publication-main .publication-item .single-item .image {
+    height: 264px;
+  }
+
+  .publication-main .publication-item .single-item {
+    min-height: 341px;
+  }
+
+  // publication page end
+  .search-list .profile-search-item .text h4 {
+    font-size: 18px;
+  }
+  .image-gallery-view .gallery-item .image {
+    height: 356px;
+  }
+// profile part start
+.profile2-details .info-right .info-icon i {
+  font-size: 20px;
+}
+
+// country part start
+.country-profile .country-bg .text {
+  padding-top: 60px;
+}
+
+.country-profile .country-bg .image img {
+  width: 310px;
+}
+}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+  .common-title h4 {
+    font-size: 34px;
+  }
+
+  .mobile-header .mobile-social {
+    width: auto;
+  }
+
+  .top-header .title p {
+    font-size: 14px;
+  } 
+
+  header .name h4 {
+    font-size: 21px;
+  }
+
+  .bd-logo img {
+    width: 60px;
+  }
+
+  nav ul .nav-item .nav-link {
+    font-size: 14px !important;
+  }
+
+
+  // banner part start
+  .banner__slider .banner-content h2 {
+    font-size: 22px;
+  }
+
+  .banner__slider .banner-content {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+  }
+  .banner__slider {
+    height: 331px;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .banner__slider .banner-content {
+    padding-left: 0;
+    padding-right: 60px;
+  }
+
+  .banner__slider .image {
+    height: 331px;
+    padding-left: 0;
+  }
+
+  .banner__slider .banner-content p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  // banner part end
+
+  .anim-img {
+    position: absolute;
+    display: none;
+  }
+
+  .about .about-image .img {
+    height: 564px;
+  }
+
+  .about .about-text {
+    padding-left: 0;
+    margin-top: 0px !important;
+  }
+
+  .about .about-text .description p {
+    font-size: 16px;
+  }
+
+  .about .about-text .other-info .text h4 {
+    font-size: 24px;
+  }
+
+  .about .about-image .img {
+    height: 369px;
+  }
+
+
+  .about .about-info .year-box {
+    bottom: -158px;
+    right: 42px;
+  }
+
+  .about .about-info .video {
+    bottom: -50px;
+    left: 23px;
+  }
+
+  .presedent-with-contact-form {
+    padding-top: 90px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-left: 0;
+    padding-bottom: 40px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h6 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text p {
+    margin-bottom: 30px;
+  }
+
+  // business summit part start
+  .business-summit .business-summit-title h4 {
+    background-color: unset;
+    backdrop-filter: unset;
+    color: #ffffff !important;
+    padding: 0 0 40px;
+    text-align: center;
+    font-size: 40px;
+    clip-path: unset;
+  }
+
+  .business-summit .logo .overlay p {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+  }
+
+  .business-summit .business-summit-title h4 {
+    padding: 0;
+    font-size: 36px;
+  }
+
+  // news part start
+
+  .container-fluid {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .news-item .news-text {
+    width: 100%;
+    padding: 20px 20px;
+    top: 0;
+  }
+
+
+  .news-item .news-text .title {
+    font-size: 18px;
+  }
+
+  .news-item {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 24px;
+  }
+
+  .news .common-btn {
+    margin-top: 6px;
+  }
+
+  .news {
+    padding-top: 50px;
+  }
+
+  .news-item .news-text .date p {
+    width: 70px;
+    height: 70px;
+    padding: 6px 21px;
+  }
+
+  .news-item .news-text .title {
+    font-size: 16px;
+  }
+
+  // news part end
+  // counter part start
+  .counter-item {
+    margin: 20px 0;
+  }
+
+  .counter-item.even-item::before {
+    display: none
+  }
+
+
+  .counter-item.odd-item::before {
+    display: none;
+  }
+
+  .counter-item.odd-item::after {
+    display: none;
+  }
+
+  .counter-item h3 {
+    font-size: 38px;
+    margin: 7px 0;
+  }
+
+  // counter part end
+  // upcomming event part start
+  .event-calender .pignose-calendar {
+    margin-bottom: 30px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .image {
+    height: 199px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .text {
+    padding: 22px;
+    padding-top: 20px;
+  }
+
+  // .upcomming-event-box .upcomming-event-item .text span {
+  //   // margin: 14px 0 10px 0;
+  // }
+
+  // upcomming event part end
+
+  .event-item .text .title {
+    font-size: 18px;
+  }
+
+  .event-item {
+    height: 360px;
+  }
+
+  // former president page start
+  .former-president-item .image {
+    height: auto;
+  }
+
+  // former president page end
+  .news-list-page .news-item {
+    margin-bottom: 24px;
+  }
+
+  // news details page start
+  .news-details {
+    padding-top: 60px;
+  }
+
+  .fixed-sidebar-news {
+    position: unset;
+    margin-top: 40px;
+  }
+
+
+  // news details page end
+  // publication page start
+  .publication-main .publication-item .single-item .image {
+    height: 221px;
+  }
+
+  .publication-main .publication-item .single-item {
+    min-height: 297px;
+  }
+
+  // publication page end
+  .search-list .profile-search-item .image {
+    width: 95px;
+    height: 95px;
+  }
+
+  .search-list .profile-search-item .text {
+    padding-left: 108px;
+  }
+
+  .search-list .profile-search-item .text h4 {
+    font-size: 16px;
+  }
+
+  .search-list .profile-search-item {
+    min-height: 133px;
+  }
+// galler part start
+.gallery-item .image {
+  height: 213px;
+}
+
+// galler part end
+.image-gallery-view .gallery-item .image {
+  height: 296px;
+}
+// profile part start
+.profile2-details .desig-history .timeline-cont .group .date {
+  left: 0%;
+  width: 136px;
+  padding: 8px 5px;
+}
+
+.res-fix {
+  left: 20% !important;
+}
+
+.profile2-details .info-right .info-icon i {
+  font-size: 16px;
+}
+
+.profile2-details .desig-history .timeline-cont .title strong,
+.end-box .title strong {
+  font-size: 12px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  font-size: 14px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box h4 {
+  font-weight: 700;
+}
+
+// country part start
+.country-profile .country-bg .text {
+  padding-top: 60px;
+}
+
+.country-profile .country-bg .image img {
+  width: 310px;
+}
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+  .mobile-header .mobile-social {
+    width: auto;
+  }
+
+  // banner part start
+  .banner__slider .image {
+    height: auto;
+    padding-left: 0;
+  }
+
+  .banner__slider .banner-content {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+  }
+
+  .banner__slider {
+    height: auto;
+  }
+
+  .banner__slider .banner-content h2 {
+    font-size: 34px;
+  }
+
+
+  // banner part end
+
+  .anim-img {
+    position: absolute;
+    display: none;
+  }
+
+  .about .about-image .img {
+    height: 564px;
+  }
+
+  .about .about-text {
+    padding-left: 0;
+    margin-top: 130px !important;
+  }
+
+  .presedent-with-contact-form {
+    padding-top: 90px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-left: 0;
+    padding-bottom: 40px;
+  }
+
+  // business summit part start
+  .business-summit .business-summit-title h4 {
+    background-color: unset;
+    backdrop-filter: unset;
+    color: #ffffff !important;
+    padding: 0 0 40px;
+    text-align: center;
+    font-size: 40px;
+    clip-path: unset;
+  }
+
+  .business-summit .logo {
+    margin-bottom: 14px;
+  }
+
+  .business-summit .logo .overlay p {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+
+  // news part start
+
+  .container-fluid {
+    width: 720px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .news-item .news-text {
+    width: 100%;
+    padding: 30px 24px;
+    top: 0;
+  }
+
+
+  .news-item .news-text .title {
+    font-size: 18px;
+  }
+
+  .news-item {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 24px;
+  }
+
+  .news .common-btn {
+    margin-top: 6px;
+  }
+
+  .news {
+    padding-top: 50px;
+  }
+
+  // news part end
+  // counter part start
+  .counter-item {
+    margin: 20px 0;
+  }
+
+  .counter-item.even-item::before {
+    display: none
+  }
+
+
+  .counter-item.odd-item::before {
+    display: none;
+  }
+
+  .counter-item.odd-item::after {
+    display: none;
+  }
+
+  .counter-item h3 {
+    font-size: 38px;
+    margin: 7px 0;
+  }
+
+  // counter part end
+  // upcomming event part start
+  .event-calender .pignose-calendar {
+    margin-bottom: 30px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .image {
+    height: 199px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .text {
+    padding: 22px;
+    padding-top: 20px;
+  }
+
+  // .upcomming-event-box .upcomming-event-item .text span {
+  //   // margin: 14px 0 10px 0;
+  // }
+
+  // upcomming event part end
+
+  .event-item {
+    height: 394px;
+    margin-top: 24px;
+  }
+
+  // former president page start
+  .former-president-item .image {
+    height: auto;
+  }
+
+  // former president page end
+  .upcomming-event-page .upcomming-event-item .image {
+    height: 203px;
+  }
+
+  .news-list-page .news-item {
+    margin-bottom: 24px;
+  }
+
+  // news details page start
+  .news-details {
+    padding-top: 60px;
+  }
+
+  .fixed-sidebar-news {
+    position: unset;
+    margin-top: 40px;
+  }
+
+  .news-details .related-news .rn::before {
+    display: none;
+  }
+
+  .news-details .text-main .img {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  // galler part start
+  .gallery-item .image {
+    height: 242px;
+  }
+
+  // galler part end
+
+  // news details page end
+  // content page start
+  .content-page .content-main h1 {
+    font-size: 30px;
+  }
+
+  .content-page .mid-text h4 {
+    font-size: 24px;
+    line-height: 33px;
+  }
+
+  // content page end
+  // publication page start
+  .publication-main .publication-item .single-item .image {
+    height: 221px;
+  }
+
+  .publication-main .publication-item .single-item {
+    min-height: 297px;
+  }
+
+  // publication page end
+  .sticky {
+    position: unset;
+    top: 70px;
+    margin-top: 30px;
+  }
+
+  .search-list .profile-search-item .text h4 {
+    font-size: 16px;
+  }
+.image-gallery-view .gallery-item .image {
+  height: 336px;
+}
+// profile css start
+.profile2-details .info h3 {
+  font-size: 22px;
+}
+
+.profile2-details .info h4 {
+  font-size: 18px;
+}
+
+.profile2-details .info .link a {
+  font-size: 16px;
+}
+
+.profile2-details .img img {
+  width: 140px;
+  height: 140px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  left: 17%;
+  width: 150px;
+}
+
+.res-fix {
+  left: 20% !important;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box {
+  top: 20px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box::before {
+  top: 10px;
+}
+
+.profile2-details .info-right .info-icon i {
+  font-size: 18px;
+}
+
+.profile2-details .desig-history {
+  border-radius: 5px 5px 0 0;
+}
+
+.profile2-details .bio {
+  border-radius: 0 0 5px 5px;
+
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  font-size: 14px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box h4 {
+  font-weight: 700;
+}
+
+.country-profile .country-bg .image {
+  text-align: center;
+}
+
+.country-profile .country-bg .text {
+  padding-top: 60px;
+}
+}
+
+
+
+@media (min-width:576px) and (max-width:767.98px) {
+  body {
+    font-size: 15px;
+  }
+
+  // banner part start
+
+  .banner__slider .image {
+    height: auto;
+  }
+
+  .banner__slider .banner-content h2 {
+    font-size: 26px;
+  }
+
+  .banner__slider {
+    height: auto;
+  }
+
+  .banner__slider .banner-content {
+    margin-top: 30px;
+  }
+
+  .banner__slider .banner-content {
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
+  // banner part end
+  // about part start
+  .about .about-image .img {
+    height: 442px;
+  }
+
+  .anim-img {
+    display: none;
+  }
+
+  .about .about-text {
+    padding-left: 0;
+    padding-top: 200px;
+  }
+
+  .about .about-info .year-box .year h5 {
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+  }
+
+  .about .about-info .year-box .year {
+    width: 144px;
+    height: 144px;
+  }
+
+  .about .about-info .year-box {
+    width: 196px;
+    right: 84px;
+    bottom: -134px;
+  }
+
+  .about .common-title {
+    margin-bottom: 20px;
+  }
+
+  .common-title h4 {
+    font-size: 30px;
+  }
+
+  .about .about-info .video {
+    bottom: -36px;
+    left: 56px;
+  }
+
+  .about .about-text .description p {
+    font-size: 15px;
+  }
+
+  .about .about-text .other-info .text h4 {
+    font-size: 22px;
+  }
+
+  .about .about-text .other-info .info-box {
+    height: auto;
+  }
+
+  // about part end
+
+  // president part start
+  .presedent-with-contact-form {
+    padding-top: 90px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 31px;
+    padding-bottom: 0;
+    padding-left: 0;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h2 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h6 {
+    font-size: 18px;
+    margin-bottom: 18px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text p {
+    margin-bottom: 24px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text .read-more {
+    margin-bottom: 23px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-bottom: 30px;
+  }
+
+  // president part end
+  // business summit part start
+  .business-summit .business-summit-title h4 {
+    background-color: unset;
+    backdrop-filter: unset;
+    color: #ffffff !important;
+    padding: 0 0 40px;
+    text-align: center;
+    clip-path: unset;
+  }
+
+
+  .business-summit .logo {
+    margin-bottom: 14px;
+  }
+
+  // business summit part end
+  .service-item.item-2 {
+    margin-top: 0;
+  }
+
+  .service-item .text h5 .title {
+    font-size: 21px;
+  }
+
+  // news part start
+
+  .container-fluid {
+    width: auto;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .news-item .news-text {
+    width: 100%;
+    padding: 30px 24px;
+    top: 0;
+  }
+
+
+  .news-item .news-text .title {
+    font-size: 20px;
+  }
+
+  .news-item {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 24px;
+  }
+
+  .news .common-btn {
+    margin-top: 6px;
+  }
+
+  .news {
+    padding-top: 50px;
+  }
+
+  // news part end
+  .counter-part .col-lg {
+    width: 50%;
+    float: left;
+    margin-bottom: 30px;
+  }
+
+  .counter-item h3 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+
+  .counter-item.odd-item::before {
+    display: none;
+  }
+
+  .counter-item.odd-item::after {
+    display: none;
+  }
+
+  .counter-item i {
+    font-size: 30px;
+  }
+
+  .counter-item p {
+    font-size: 16px;
+  }
+
+  .counter-item h3 {
+    margin: 14px 0 3px;
+  }
+
+  .counter-item.even-item::before {
+    display: none
+  }
+
+  // upcomming event part start
+  .event-calender .pignose-calendar {
+    min-height: 545px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .image {
+    height: 418px;
+    position: relative;
+  }
+
+  .upcomming-event {
+    padding-top: 50px;
+  }
+
+  .upcomming-event .common-title {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  // upcomming event part end
+  .events {
+    padding-top: 50px;
+  }
+
+  .common-title {
+    margin-bottom: 24px;
+  }
+
+  .event-item {
+    height: auto;
+    margin-top: 24px;
+  }
+
+  .event-item .text .read-more {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .event-item:hover .text {
+    transform: unset;
+  }
+
+  .event-item .text .title {
+    font-size: 20px;
+  }
+
+  // gallery part start
+  .gallery {
+    padding-top: 50px;
+    margin-bottom: -20px;
+  }
+
+  .gallery .gallery-menu .nav-link {
+    font-size: 15px;
+    padding: 9px 20px;
+  }
+
+  // galler part start
+  .gallery-item .image {
+    height: 372px;
+  }
+
+  // galler part end
+
+  // gallery part end
+  // contact part start
+  footer .footer-bg {
+    padding: 50px 0 20px 0;
+  }
+
+  .contact-main .form {
+    margin-bottom: 30px;
+  }
+
+  footer {
+    padding-top: 60px;
+  }
+
+  // contact part end
+  // former president page start
+  .former-president-item .image {
+    height: auto;
+  }
+
+  // former president page end
+  .upcomming-event-page .upcomming-event-item .image {
+    height: auto;
+  }
+
+  .upcomming-event-page .upcomming-event-item .text {
+    padding-left: 24px;
+  }
+
+  .news-list-page .news-item {
+    margin-bottom: 24px;
+  }
+
+  // news details page start
+  .news-details {
+    padding-top: 60px;
+  }
+
+  .news-details .title h3 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .fixed-sidebar-news {
+    position: unset;
+    margin-top: 40px;
+  }
+
+  .news-details .related-news .rn::before {
+    display: none;
+  }
+
+  .news-details .text-main .img {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  // news details page end
+  // content page start
+  .content-page .content-main h1 {
+    font-size: 22px;
+    margin-bottom: 30px;
+    padding: 0 0;
+    padding-left: 0;
+  }
+
+  .content-page .content-main h1::before {
+    display: none;
+  }
+
+  .content-page .content-main .content-box .small-image {
+    float: unset;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .content-page .mid-text {
+    padding: 0px 0px 0px 0px;
+    margin: 20px 0 !important;
+    padding: 14px !important;
+  }
+
+  .content-page .mid-text i {
+    display: none;
+  }
+
+  .content-page .mid-text h4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  // content page end
+  // publication page start
+  .publication-main .publication-item .single-item .image {
+    height: 252px;
+  }
+
+  .publication-main .publication-item .single-item {
+    min-height: 325px;
+  }
+
+  // publication page end
+  .video-gallery-view .big-video {
+    height: 300px;
+  }
+
+  // notice details page start
+  .notice-details-main .text h4 {
+    font-size: 20px;
+  }
+
+  .notice-details-main h3 {
+    font-size: 20px;
+    top: 16px;
+    right: -97px;
+  }
+
+  .notice-details-main .text {
+    max-width: 446px;
+  }
+
+  // notice details page end
+  // event details page start
+  .event-details-page .text h1 {
+    font-size: 24px;
+  }
+
+  .event-details-page .text ul {
+    padding: 24px;
+    display: inherit !important;
+  }
+
+  .event-details-page .text ul li {
+    line-height: 28px;
+  }
+
+  .sticky {
+    position: unset;
+    top: 70px;
+    margin-top: 30px;
+  }
+
+  // event details page end
+  .common-search .input-groups {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+
+  .common-search .button-groups button {
+    width: 100%;
+  }
+
+  .common-search .search-field {
+    max-width: unset;
+  }
+  // member list page start
+  .member-top-search .title h2 {
+    font-size: 22px;
+  }
+
+  .member-top-search .sort-by {
+    margin-bottom: 14px;
+  }
+
+  .member-top-search .text-title {
+    margin-bottom: 14px;
+  }
+
+  .member-top-search .search-top .search-btn {
+    width: 100%;
+  }
+
+  .advance-search .search-btn {
+    width: 100% !important;
+  }
+
+  // member list page end
+  .image-gallery-view .gallery-item .image {
+    height: 516px;
+  }
+// profile part start
+.info {
+  text-align: center;
+}
+
+.profile2-details .info .link a {
+  font-size: 18px;
+}
+
+.res-fix {
+  left: 20% !important;
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  left: 13%;
+  width: 130px;
+  text-align: center;
+  font-size: 14px;
+  padding: 8px 10px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box h4 {
+  font-weight: 700;
+}
+
+.profile2-details .info-right {
+  padding-left: 35%;
+  padding-top: 25px;
+
+  .info-icon i {
+    font-size: 20px;
+  }
+}
+
+// country part start
+.country-profile .country-bg .text {
+  padding-top: 30px;
+}
+
+.country-profile .country-bg .image {
+  text-align: center;
+
+  img {
+    height: 310px;
+    margin-top: -65px;
+  }
+}
+
+.country-profile .country-bg .text h2 {
+  font-size: 30px;
+}
+
+}
+
+@media (max-width:575.98px) {
+  body {
+    font-size: 14px;
+  }
+
+  // banner part start
+
+  .banner__slider .image {
+    height: auto;
+  }
+
+  .banner__slider .banner-content h2 {
+    font-size: 22px;
+  }
+
+  .banner__slider .banner-content p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .banner__slider {
+    height: auto;
+  }
+
+  .banner__slider .banner-content {
+    margin-top: 30px;
+  }
+
+  .banner__slider .banner-content {
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
+  .banner__slider .swiper-button-next {
+    right: 20px;
+    display: none;
+  }
+
+  .banner__slider .swiper-button-prev {
+    right: 20px;
+    display: none;
+  }
+
+  // banner part end
+  // about part start
+  .about .about-image .img {
+    height: auto;
+  }
+
+  .anim-img {
+    display: none;
+  }
+
+  .about .about-text {
+    padding-left: 0;
+    padding-top: 230px;
+  }
+
+  .about .about-info .year-box .year h5 {
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+  }
+
+  .about .about-info .year-box .year {
+    width: 144px;
+    height: 144px;
+  }
+
+  .about .about-info .year-box {
+    width: 196px;
+    right: 28px;
+    bottom: -177px;
+  }
+
+  .about .common-title {
+    margin-bottom: 20px;
+  }
+
+  .common-title h4 {
+    font-size: 26px;
+  }
+
+  .about .about-info .video {
+    bottom: -74px;
+    left: 18px;
+  }
+
+  .about .about-text .description p {
+    font-size: 15px;
+  }
+
+  .about .about-text .other-info .text h4 {
+    font-size: 22px;
+  }
+
+  .about .about-text .other-info .info-box {
+    height: auto;
+  }
+
+  // about part end
+
+  // president part start
+  .presedent-with-contact-form {
+    padding-top: 90px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-top: 31px;
+    padding-bottom: 0;
+    padding-left: 0;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h2 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text h6 {
+    font-size: 18px;
+    margin-bottom: 18px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text p {
+    margin-bottom: 24px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text .read-more {
+    margin-bottom: 23px;
+  }
+
+  .presedent-with-contact-form .presedent-bg .text {
+    padding-bottom: 30px;
+  }
+
+  // president part end
+  // business summit part start
+  .business-summit .business-summit-title h4 {
+    background-color: unset;
+    backdrop-filter: unset;
+    color: #ffffff !important;
+    padding: 0 0 40px;
+    text-align: center;
+    clip-path: unset;
+  }
+
+
+  .business-summit .logo {
+    margin-bottom: 14px;
+  }
+
+  // business summit part end
+  .service-item.item-2 {
+    margin-top: 0;
+  }
+
+  // news part start
+  .news-item .news-image {
+    height: auto;
+  }
+
+
+  .container-fluid {
+    width: auto;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  .news-item .news-text {
+    width: 100%;
+    padding: 20px 24px;
+    top: 0;
+  }
+
+
+  .news-item .news-text .title {
+    font-size: 16px;
+  }
+
+  .news-item {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 24px;
+  }
+
+  .news .common-btn {
+    margin-top: 6px;
+  }
+
+  .news {
+    padding-top: 50px;
+  }
+
+  // news part end
+  .counter-part .col-lg {
+    width: 50%;
+    float: left;
+    margin-bottom: 30px;
+  }
+
+  .counter-item h3 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+
+  .counter-item.odd-item::before {
+    display: none;
+  }
+
+  .counter-item.odd-item::after {
+    display: none;
+  }
+
+  .counter-item i {
+    font-size: 30px;
+  }
+
+  .counter-item p {
+    font-size: 16px;
+  }
+
+  .counter-item h3 {
+    margin: 14px 0 3px;
+  }
+
+  .counter-item.even-item::before {
+    display: none
+  }
+
+  // upcomming event part start
+  .event-calender .pignose-calendar {
+    min-height: 545px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .upcomming-event-box .upcomming-event-item .image {
+    height: auto;
+    position: relative;
+  }
+
+  .upcomming-event {
+    padding-top: 50px;
+  }
+
+  .upcomming-event .common-title {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  // upcomming event part end
+  .events {
+    padding-top: 50px;
+  }
+
+  .common-title {
+    margin-bottom: 24px;
+  }
+
+  .event-item .image {
+    height: auto;
+  }
+
+  .event-item {
+    height: auto;
+    margin-top: 24px;
+  }
+
+  .event-item .text .read-more {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .event-item:hover .text {
+    transform: unset;
+  }
+
+  .event-item .text .title {
+    font-size: 20px;
+  }
+
+  // gallery part start
+  .gallery {
+    padding-top: 50px;
+    margin-bottom: -20px;
+  }
+
+  .gallery .gallery-menu .nav-link {
+    font-size: 15px;
+    padding: 9px 20px;
+  }
+
+  .gallery-item .image {
+    height: auto;
+  }
+
+  // gallery part end
+  // contact part start
+  footer .footer-bg {
+    padding: 50px 0 20px 0;
+  }
+
+  .contact-main .form {
+    margin-bottom: 30px;
+  }
+
+  footer {
+    padding-top: 60px;
+  }
+
+  // contact part end
+  // former presedint page start
+  .former-president-item .image {
+    height: auto;
+  }
+
+  .upcomming-event-page .upcomming-event-item .image {
+    height: auto;
+  }
+
+  .upcomming-event-page .upcomming-event-item .text {
+    padding-left: 24px;
+  }
+
+  // former presedint page end
+  .news-list-page .news-item {
+    margin-bottom: 24px;
+  }
+
+  // news details page start
+  .news-details {
+    padding-top: 60px;
+  }
+
+  .news-details .title h3 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .fixed-sidebar-news {
+    position: unset;
+    margin-top: 40px;
+  }
+
+  .news-details .related-news .rn::before {
+    display: none;
+  }
+
+  .news-details .text-main .img {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .fixed-sidebar-news {
+    border: 0;
+    padding: 0;
+  }
+
+  // news details page end
+  .image-gallery-view .gallery-item .image {
+    height: auto;
+  }
+
+  // content page start
+  .content-page .content-main h1 {
+    font-size: 18px;
+    margin-bottom: 30px;
+    padding: 0 0;
+    padding-left: 0;
+  }
+
+  .content-page .content-main h1::before {
+    display: none;
+  }
+
+  .content-page .content-main .content-box .small-image {
+    float: unset;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .content-page .mid-text {
+    padding: 0px 0px 0px 0px;
+    margin: 20px 0 !important;
+    padding: 14px !important;
+  }
+
+  .content-page .mid-text i {
+    display: none;
+  }
+
+  .content-page .mid-text h4 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  // content page end
+  // publication page start
+  .publication-main .publication-item .single-item .image {
+    height: auto;
+  }
+
+  .publication-main .publication-item .single-item {
+    min-height: auto;
+  }
+
+  // publication page end
+  .video-gallery-view .big-video {
+    height: 300px;
+  }
+
+  // notice details page start
+  .notice-details-main .text h4 {
+    font-size: 18px;
+  }
+
+  .notice-details-main h3 {
+    font-size: 20px;
+    top: 16px;
+    right: -97px;
+  }
+
+  .notice-details-main .text {
+    max-width: unset;
+  }
+
+  .notice-details-main h3 {
+    font-size: 20px;
+    transform: rotate(0deg);
+    padding: 14px 53px;
+    border-top-right-radius: 0;
+  }
+
+  .notice-details-main {
+    overflow: visible;
+  }
+
+  .notice-details-main h3 {
+    font-size: 20px;
+    top: 0;
+    right: unset;
+  }
+
+  .notice-details-main h3 {
+    font-size: 18px;
+    top: -26px;
+    left: 0;
+  }
+
+  // notice details page end
+  // notice list page start
+  .notice-list .notice-info {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .notice-list .notice-date {
+    position: unset;
+    transform: unset;
+  }
+
+  .notice-list .notice-info h4 {
+    font-size: 16px;
+  }
+
+  .notice-list .notice-date p {
+    width: auto;
+    padding: 0;
+    background-color: transparent;
+    color: #222;
+    font-size: 16px;
+  }
+
+  .notice-list .notice-date p::before {
+    display: none;
+  }
+
+  .notice-list .notice-date .year {
+    display: inline-block;
+  }
+
+  .notice-list .notice-date p {
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .notice-list .notice-date .month {
+    font-size: unset;
+    font-weight: unset;
+  }
+
+  .notice-list .notice-item .pdf i {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  // notice list page end
+  // event details page start
+  .event-details-page .text h1 {
+    font-size: 24px;
+  }
+
+  .event-details-page .text ul {
+    padding: 24px;
+    display: inherit !important;
+  }
+
+  .event-details-page .text ul li {
+    line-height: 28px;
+  }
+
+  .sticky {
+    position: unset;
+    top: 70px;
+    margin-top: 30px;
+  }
+
+  .right-part .news-text h4 {
+    font-size: 16px;
+  }
+
+  .event-details-page .text h1 {
+    font-size: 18px;
+  }
+
+  // event details page end
+  .common-search .input-groups {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+
+  .common-search .button-groups button {
+    width: 100%;
+  }
+
+  .common-search .search-field {
+    max-width: unset;
+  }
+
+  .search-list .profile-search-item .text h4 {
+    font-size: 16px;
+  }
+
+  .search-list .search-top-bar p {
+    font-size: 15px;
+    padding: 5px 30px;
+  }
+
+  // advisor page start
+  .advisor .advisor-type-button button {
+    font-size: 14px;
+    padding: 14px 20px;
+  }
+
+  .advisor .advisor-type-button .nav-pills::before {
+    display: none;
+  }
+
+  .advisor .advisor-type-button .nav-pills::after {
+    display: none;
+  }
+
+  .advisor .advisor-type-button {
+    margin-bottom: 30px;
+  }
+
+  // advisor page end
+  // member list page start
+  .member-top-search .title h2 {
+    font-size: 22px;
+  }
+
+  .member-top-search .sort-by {
+    margin-bottom: 14px;
+  }
+
+  .member-top-search .text-title {
+    margin-bottom: 14px;
+  }
+
+  .member-top-search .search-top .search-btn {
+    width: 100%;
+  }
+
+  .advance-search .search-btn {
+    width: 100% !important;
+  }
+
+  // member list page end
+  .former-president-item .text {
+    min-height: auto;
+  }
+
+  .former-president-item .text button {
+    left: unset;
+    transform: unset;
+    width: 100%;
+    position: static;
+  }
+// profile part start
+.info {
+  text-align: center;
+}
+
+.res-fix {
+  left: 20% !important;
+}
+
+.profile2-details .desig-history .timeline-cont .group .date {
+  left: 0%;
+  width: 120px;
+  text-align: center;
+  padding: 8px 10px;
+}
+
+.profile2-details .desig-history .timeline-cont .group .desc-box h4 {
+  font-weight: 700;
+}
+
+.profile2-details .info-right {
+  padding-left: 35%;
+  padding-top: 25px;
+
+  .info-icon i {
+    font-size: 18px;
+  }
+}
+
+// country part start
+.country-profile .country-bg .text {
+  padding-top: 20px;
+}
+
+.country-profile .country-bg .image {
+  text-align: center;
+
+  img {
+    height: 280px;
+    margin-top: -65px;
+  }
+}
+
+.country-profile .country-bg .text h2 {
+  font-size: 30px;
+}
+}

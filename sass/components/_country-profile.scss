@@ -1,0 +1,124 @@
+// @import "../variable/variable";
+// @import "../mixin/font";
+
+// .country-profile {
+//   padding-top: 80px;
+
+//   .profile-main {
+//     background-color: #f2f2f2;
+//     overflow: hidden;
+//     position: relative;
+//     z-index: 99;
+
+//     &::before {
+//       position: absolute;
+//       bottom: 0;
+//       right: 0;
+//       width: 70%;
+//       height: 150px;
+//       z-index: -1;
+//       background-image: linear-gradient(to right, rgba(6, 104, 79, 0.4), rgba(239, 48, 53, 0.1));
+//       content: "";
+//       clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0% 100%);
+//     }
+
+//     .image {
+//       img {
+//         border-radius: 5px
+//       }
+//     }
+
+//     .text {
+//       padding: 24px 24px 24px 0;
+
+//       p {
+//         @include font(18px, 400);
+//         line-height: 32px;
+//       }
+
+//       .bg {
+//         background-color: $themeColor;
+//         background-repeat: no-repeat;
+//         background-size: cover;
+//         background-position: center center;
+//         color: $white;
+//         @include font(20px, 600);
+//         margin-top: 24px;
+//         transition: all linear .2s;
+
+//         .read-more {
+//           color: $white;
+//           padding: 10px 30px;
+//         }
+
+//         &:hover {
+//           background-color: $black;
+//         }
+//       }
+//     }
+//   }
+// }
+
+
+@import "../variable/variable";
+@import "../mixin/font";
+
+.country-profile {
+  padding-top: 160px;
+
+  .country-bg {
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+
+    .image {
+      img {
+        margin-top: -80px;
+      }
+    }
+
+    .text {
+
+      padding-top: 80px;
+      padding-bottom: 60px;
+
+
+      h2 {
+        @include font(34px, 700);
+        margin-bottom: 20px;
+        background: url(/images/service-bg.jpg);
+      }
+
+      p {
+        margin-bottom: 40px;
+        text-align: justify;
+        line-height: 26px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+
+      .read-more {
+        background-color: $black;
+        padding: 20px 30px;
+        width: 240px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: 600;
+        color: $white;
+        border-radius: 50px;
+        border-top-left-radius: 50px;
+        border: 0;
+        border-top-left-radius: 0;
+        transition: all linear .2s;
+        text-transform: uppercase;
+
+        &:hover {
+          background-color: $themeColor;
+        }
+      }
+
+    }
+  }
+}
