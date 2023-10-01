@@ -440,3 +440,165 @@
     }
   }
 }
+// new profile design
+.g-member-body .member-box {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  border-top: 5px solid #f18729;
+  padding-bottom: 20px;
+
+  .shape {
+    width: 250px;
+    height: 180px;
+    background: #1c97d3;
+    border-radius: 50%;
+    opacity: .2;
+    position: absolute;
+    top: 0;
+    right: -100px;
+    transform: rotate(45deg);
+  }
+
+  .shape2 {
+    width: 250px;
+    height: 180px;
+    background: #154a6e;
+    border-radius: 50%;
+    opacity: .2;
+    position: absolute;
+    top: 0;
+    right: -160px;
+    transform: rotate(45deg);
+  }
+
+  // .shape {
+  //   width: 40px;
+  //   height: 80px;
+  //   opacity: .2;
+  //   position: absolute;
+  //   transform: rotate(45deg);
+  // }
+
+  // .shape1 {
+  //   top: 20px;
+  //   right: -10px;
+  //   border: 2px solid #192093;
+  // }
+
+  // .shape2 {
+  //   top: 0px;
+  //   right: -10px;
+  //   border: 2px solid #ff3000;
+  // }
+
+
+  // .shape3 {
+  //   top: -28px;
+  //   right: 118px;
+  //   border: 2px solid #192093;
+  // }
+
+  // .shape4 {
+  //   top: -28px;
+  //   right: 150px;
+  //   border: 2px solid #ff3000;
+  // }
+
+  // .shape5 {
+  //   top: 85px;
+  //   left: 120px;
+  //   border: 2px solid #192093;
+  // }
+
+  // .shape6 {
+  //   top: 87px;
+  //   left: 140px;
+  //   border: 2px solid #ff3000;
+  // }
+
+  // .shape7 {
+  //   top: 190px;
+  //   left: 85px;
+  //   border: 2px solid #192093;
+  // }
+
+  // .shape8 {
+  //   top: 210px;
+  //   left: 65px;
+  //   border: 2px solid #ff3000;
+  // }
+
+  // .shape9 {
+  //   top: 20px;
+  //   left: 85px;
+  //   border: 2px solid #192093;
+  // }
+
+  // .shape10 {
+  //   top: 40px;
+  //   left: 65px;
+  //   border: 2px solid #ff3000;
+  // }
+
+  .card-img-top {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-top-left-radius: 0;
+    border-bottom: 5px solid #6dc8be;
+    object-fit: cover;
+    object-position: top;
+  }
+
+  img {
+    background: transparent;
+  }
+
+  .card-body {
+    position: relative;
+    height: 155px;
+  }
+
+  .member-title {
+    font-size: 20px;
+    font-weight: 600;
+    // line-height: 20px;
+    // height: 40px;
+    // letter-spacing: -.025em;
+    margin-bottom: 20px;
+  }
+
+  small {
+    font-size: 15px;
+  }
+
+  .card-footer {
+    background-color: transparent;
+    border: 0;
+  }
+
+  .social {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+
+    big {
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    a {
+      font-size: 15px;
+      color: #007f3d;
+      padding: 10px;
+      text-decoration: none;
+
+      img {
+        height: 20px;
+      }
+    }
+  }
+}
